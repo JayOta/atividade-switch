@@ -78,6 +78,9 @@
             break;
     }
 }
+if($valor >= 11){
+    echo "O valor precisa ser igual ou menor que 10";
+}
 ?>
 </body>
 </html>
