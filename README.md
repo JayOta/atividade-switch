@@ -1,3 +1,3 @@
 # atividade-switch
 
-Atividade feita para aprender o comando Switch Case
+Atividade feita em sala para aprender o comando Switch Case
